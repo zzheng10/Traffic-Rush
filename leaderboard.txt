@@ -1,0 +1,10 @@
+Speedy,80
+Josh,100
+Zach,120
+Nick,130
+Zach,140
+Number1,2440
+Hi,1540
+Zach,1120
+Joe,770
+15112!,695
